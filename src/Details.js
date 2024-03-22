@@ -38,7 +38,7 @@ export const personalDetails = {
   name: "Nicolas Petit",
   tagline: "étudiant dev web chez Openclassroom.",
   img: profile,
-  about: `Issus d'une formation de logistique et ayant travaillé dans ce milieu pendant près de 10 ans,  j'ai décidé de me lancer dans ce nouveau projet.
+  about: `Alors moi c'est Nicolas, j'ai 31 ans et je me suis lancé dans ce nouveau défis de reconversion pro pour devenir Developpeur Web. Je suis issus d'une formation de logistique et ayant travaillé dans ce milieu pendant près de 10 ans,  j'ai décidé de me lancer dans ce nouveau projet.
   Grâce à Openclassroom j'ai pu acquérir une grande connaissance dans le secteur de l'informatique et plus précisément dans le métier de developeur web.`,
 };
 
@@ -57,8 +57,8 @@ export const workDetails = [
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Dev Web",
-    Company: "OpenClassRoom",
+    Position: "Developpeur Web",
+    Company: "Chez Openclassroom",
     Location: "Online",
     Type: "Full Time",
     Duration: "Aout 2023 - Present",
